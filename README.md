@@ -37,5 +37,5 @@ Unlike centralized platforms that route traffic through RTC media servers (e.g.,
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/blvcksyxx/torrentsniffer.git]([https://github.com/hellkyxx/torrent_sniffer.git](https://github.com/blvcksyxx/torrentsniffer.git))
+git clone https://github.com/blvcksyxx/torrentsniffer.git
 cd torrentsniffer
