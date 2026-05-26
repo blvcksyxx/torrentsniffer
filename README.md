@@ -1,4 +1,4 @@
-# 🌀 torrent_sniffer [v2]
+# 🌀 torrentsniffer [v1]
 
 A high-performance, real-time asynchronous network sniffer engineered to isolate and track **BitTorrent P2P swarm traffic**. Featuring a localized tactile Bento Grid terminal interface, dynamic web-noise filtering, and smart batch GeoIP resolution.
 
